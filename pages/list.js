@@ -8,7 +8,7 @@ const List = () => (
       }
     `}</style>
     <h1>列表页</h1>
-    <Link href='/'><a>返回首页</a></Link>
+    <Link href='/nextjs-githubpages'><a>返回首页</a></Link>
   </div>
 )
 export default List;
