@@ -8,7 +8,7 @@ const Home = ({ data }) => (
       }
     `}</style>
     <h1>首页</h1>
-    <Link href='/nextjs-gthubpages/list'><a>列表页</a></Link>
+    <Link href='/list'><a>列表页</a></Link>
   </div>
 )
 export default Home;

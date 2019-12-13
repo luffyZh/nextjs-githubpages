@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "nextjs-gthubpages",
+  "builds": [{ "src": "package.json", "use": "@now/next" }]
+}
